@@ -16,3 +16,9 @@ npm i body-parser
 to run this server:
 npm run start
 
+Stripe integration:
+
+npm install stripe --save
+
+
+20:57
