@@ -21,4 +21,3 @@ Stripe integration:
 npm install stripe --save
 
 
-20:57
